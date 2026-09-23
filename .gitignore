@@ -1,0 +1,5 @@
+*.xlsx
+*.zip
+.venv/
+node_modules/
+.checks/
